@@ -21,4 +21,5 @@ public class ClassSummaryActivity extends AppCompatActivity {
             return insets;
         });
     }
+    // this is updated form verity pc
 }
